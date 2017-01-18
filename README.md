@@ -5,5 +5,5 @@ This project contains a quick starter kit for Facebook React Single Page Apps wi
 
 <br/>
 
-What it contains?
+## What it contains?
 * server side render via go-duktape
